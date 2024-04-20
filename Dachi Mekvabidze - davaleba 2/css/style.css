@@ -1,0 +1,54 @@
+.currentpg {
+    color:#4E6FAE;
+    font-weight: 700;
+    font-size: 24;
+}
+/* currentpg სათავეში არის გვერდი
+ რომელზეც ახლა ვიმყოფებით
+ ეს გავაკეთე რადგან figma-ს დიზაინში გამუქებული იყო
+ ცალკე გვერდის სახელწოდება */
+.pg {
+    color: #8D81FF;
+    font-weight: 700;
+    font-size: 24;
+}
+/* pg არის სხვა გვერდის აღმნიშვნელი */
+.numb {
+    font-size: 24;
+    font-weight: 400;
+    color:#84FF81;
+}
+/* ეს გავაკეთე რიცხვისთვის სტატიაში*/
+.month {
+    font-weight: 400;
+    font-size: 24;
+    color:#8D81FF;
+}
+/* თვე */
+.hdr {
+    font-weight: 700;
+    font-size: 20;
+    color:#4E6FAE;
+}
+/* სათაურისთვის*/
+.parag {
+    font-weight: 400;
+    font-size: 16;
+    color: #4E6FAE;
+}
+/* სტატიისთვის */
+#contact {
+    font-weight: 700;
+    font-size: 36;
+    color: #4E6FAE;
+}
+.info1 {
+    font-weight: 400;
+    font-size: 20;
+    color:#7E8898;
+}
+.info2 {
+    font-weight: 400;
+    font-size: 20;
+    color: #3F4145;
+}
